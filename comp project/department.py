@@ -186,4 +186,3 @@ def linePlot(department_id):
                 pyplot.show()  
     if(check == 0):
         print("Department does not exist")
-Footer
