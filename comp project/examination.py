@@ -73,4 +73,4 @@ def scatterPlot():
                 performance[j] = a/b
         pyplot.scatter(batches, performance)
     pyplot.show()
-Footer
+
