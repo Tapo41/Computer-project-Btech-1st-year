@@ -190,4 +190,4 @@ def pieChart(batch_id):
             pyplot.show()
     if(check == 0):
         print("Batch does not exist")
-Footer
+
